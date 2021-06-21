@@ -1,0 +1,18 @@
+{
+  "headers": {
+    "cf-cache-status": "DYNAMIC",
+    "date": "Fri, 18 Jun 2021 21:40:20 GMT",
+    "vary": "Accept-Encoding",
+    "cf-request-id": "0ac2aa67df000039e97b9a7000000001",
+    "server": "cloudflare",
+    "alt-svc": "h3-27=\":443\"; ma=86400, h3-28=\":443\"; ma=86400, h3-29=\":443\"; ma=86400, h3=\":443\"; ma=86400",
+    "location": "/x/sqlite@v2.4.2/mod.ts",
+    "content-length": "0",
+    "x-deno-warning": "Implicitly using latest version (v2.4.2) for https://deno.land/x/sqlite/mod.ts",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "via": "HTTP/1.1 deploy",
+    "cf-ray": "6617acec9ac539e9-SEA",
+    "x-deno-ray": "us-west1-a::bf6a9c04330eeec545b8da319c127eba"
+  },
+  "url": "https://deno.land/x/sqlite/mod.ts"
+}
